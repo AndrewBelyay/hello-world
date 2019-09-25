@@ -1,2 +1,2 @@
 # hello-world
-Show begins!
+Show begins! This is my first repository.
